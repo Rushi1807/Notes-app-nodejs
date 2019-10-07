@@ -15,4 +15,8 @@
 
 <hr>
 <h3>Notes app screen shots</h3>
-![Test Image 3](/Screenshots/1.png)
+
+<img src="https://github.com/Rushi-kesh/Notes-app-nodejs/blob/master/Screenshots/1.png"/>
+<img src="https://github.com/Rushi-kesh/Notes-app-nodejs/blob/master/Screenshots/2.png"/>
+<img src="https://github.com/Rushi-kesh/Notes-app-nodejs/blob/master/Screenshots/3.png"/>
+<img src="https://github.com/Rushi-kesh/Notes-app-nodejs/blob/master/Screenshots/4.png"/>
