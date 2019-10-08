@@ -13,6 +13,9 @@
 <li>Then open <a>http://localhost:3400</a></li>
 </ol>
 
+<h4>Database Name</h4><p> : node-notes-db</p>
+
+<h4>Collection Name</h4><p> : notes</p>
 <hr>
 <h3>Notes app screen shots</h3>
 
